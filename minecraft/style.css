@@ -1,0 +1,1129 @@
+
+
+.flex {
+
+display: flex; justify-content: space-between;
+position: relative;
+/* left: 36px; */
+color: #89b85b;
+font-size: 5px;
+/* bottom: 8px; */
+background-color: black;
+padding: 10px;
+width: 100.40%;
+font-family: tahoma, sans-serif;
+/* z-index: 1; */
+right: 8px;
+/* text-indent: .25%; */
+box-sizing: border-box;
+
+}
+
+h1{
+
+margin: 0;
+}
+
+.redeem{
+
+    font-size: 12px;
+    color: #89b85b;
+    text-align: right;
+    bottom: 30px;
+    /* position: relative; */
+    z-index: 2;
+    right: 80px;
+    font-family: helvetica, sans-serif;
+    word-spacing: 20px;
+    
+
+}
+
+.logo{
+
+max-width: 14%;
+text-align: center;
+margin-right: auto;
+margin-left: auto;
+display: block;
+/* background-color: #171615; */
+/* padding: 2px; */
+/* top: 40px; */
+/* position: sticky; */
+/* width: 100%; */
+/* bottom: 0; */
+
+
+}
+
+.get{
+
+padding: 12px;
+background-color: #3B8526;
+max-width: 10%;
+text-indent: 10%;
+font-size: 17px;
+/* text-align: right; */
+margin-right: auto;
+margin-left: 1625px;
+position: relative;
+bottom: 35px;
+
+
+}
+
+
+html, body{
+
+margin: 0;
+
+}
+
+.scroll{
+
+    position: sticky;
+    background-color: #171615;
+    color: white;
+    font-size: 6px;
+    width: 100%;
+    right: 10px;
+    padding: 5px;
+    top: 0;
+    font-family: helvetica, sans-serif;
+    word-spacing: 20px;
+    box-sizing: border-box;
+    text-indent: 3%;
+    z-index: 10;
+
+}
+
+.mine{
+
+font-size: 300px;
+display: block;
+background-color: black;
+padding: 150px;
+/* max-width: 100%; */
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+height: 550px;
+padding-bottom: 0;
+padding-right: 25%;
+padding-left: 25%;
+padding-top: 0;
+object-fit: contain;
+
+}
+
+h3{
+
+position: relative;
+left: 500px;
+bottom: 450px;
+color: white;
+font-size: 25px;
+font-family: helvetica, sans-serif;
+
+}
+
+.new{
+
+
+font-weight: normal;
+font-size: 15px;
+
+
+}
+
+.big{
+
+    font-weight: normal;
+    font-size: 15px;
+
+}
+
+.craft{
+
+    padding: 12px;
+    background-color: #3B8526;
+    max-width: 10%;
+    position: relative;
+    left: 500px;
+    color: white;
+    font-family: helvetica, sans-serif;
+    font-size: 15px;
+    text-align: center;
+    bottom: 450px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    
+}
+
+.back{
+
+position: relative;
+bottom: 185px;
+
+}
+
+.explore {
+
+z-index: 2;
+position: relative;
+margin-left: auto;
+margin-right: auto;
+bottom: 1900px;
+padding:  250px;
+background-color: #EEEEEE;
+left: 375px;
+padding-bottom: 350px;
+padding-left: 200px;
+padding-right: 200px;
+
+
+}
+
+.game{
+
+    font-family: helvetica, sans-serif;
+    position: relative;
+    left: 750px;
+    bottom: 1700px;
+    z-index: 3;
+    font-size: 30px;
+
+}
+
+.left{
+
+position: relative;
+left: 450px;
+bottom: 2450px;
+z-index: 3;
+font-size: 30px;
+padding: 10px;
+background-color: #3B8526;
+margin: 0;
+max-width: 2%;
+text-align: center;
+color: white;
+
+
+}
+
+.right{
+
+position: relative;
+padding: 10px;
+background-color: #3B8526;
+max-width: 2%;
+font-size: 30px;
+color: white;
+left: 1425px;
+bottom: 2525px;
+z-index: 3;
+
+}
+
+.minecraft{
+
+    font-family: helvetica, sans-serif;
+    position: relative;
+    left: 615px;
+    z-index: 3;
+    bottom: 2400px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #3B8526;
+    word-spacing: 100px;
+
+}
+
+.survive{
+
+position: relative;    
+left: 600px;
+bottom: 2410px;
+z-index: 3;
+color: grey;
+word-spacing: -2px;
+
+}
+
+.dungeon{
+
+    position: relative;    
+    left: 875px;
+    bottom: 2510px;
+    z-index: 3;
+    color: grey;
+    word-spacing: -2px;
+
+}
+
+.legend{
+
+    position: relative;    
+    left: 1180px;
+    bottom: 2612px;
+    z-index: 3;
+    color: grey;
+    word-spacing: -2px;
+
+}
+
+.news{
+
+    position: relative;
+    color: white;
+    left: 850px;
+    bottom: 2375px;
+    font-size: 30px;
+
+}
+
+.steve{
+
+position: relative;
+left: 725px;
+bottom: 2355px;
+padding: 2px;
+background-color: white;
+
+}
+
+.cross{
+
+position: relative;
+bottom: 2375px;
+right: 95px;
+padding: 2px;
+background-color: white;
+
+}
+
+.now{
+
+    position: relative;
+    bottom: 2375px;
+    left: 385px;
+    padding: 2px;
+    background-color: white;
+
+}
+
+.lft{
+
+    position: relative;
+    left: 265px;
+    bottom: 2500px;
+    z-index: 3;
+    font-size: 30px;
+    padding: 10px;
+    background-color: #3B8526;
+    margin: 0;
+    max-width: 2%;
+    text-align: center;
+    color: white;
+
+}
+
+.riht{
+
+    position: relative;
+    left: 1575px;
+    bottom: 2550px;
+    z-index: 3;
+    font-size: 30px;
+    padding: 10px;
+    background-color: #3B8526;
+    margin: 0;
+    max-width: 2%;
+    text-align: center;
+    color: white;
+
+}
+
+.summer{
+
+position: relative;
+left: 390px;
+bottom: 2480px;
+font-size: 20px;
+
+
+}
+
+.development{
+
+    font-family: helvetica, sans-serif;
+    position: relative;
+    left: 890px;
+    bottom: 2545px;
+    padding: 5px;
+    background-color: white;
+    max-width: 6%;
+    text-align: center;
+
+}
+
+.player{
+
+position: relative;
+font-size: 20px;
+left: 815px;
+bottom: 2530px;
+
+}
+
+.report{
+
+font-size: 20px;
+position: relative;
+bottom: 2545px;
+left: 860px;
+
+}
+
+.june{
+
+font-size: 20px;
+position: relative;
+bottom: 2650px;
+left: 1250px;
+
+}
+
+.close{
+
+position: relative;
+left: 830px;
+bottom: 2585px;
+color: white;
+font-family: helvetica, sans-serif;
+font-size: 15px;
+
+}
+
+.feature{
+
+    position: relative;
+    left: 925px;
+    bottom: 2590px;
+    color: white;
+    font-family: helvetica, sans-serif;
+    font-size: 15px;
+    
+
+}
+
+.transition{
+
+position: relative;
+bottom: 2525px;
+z-index: 1;
+
+}
+
+.white{
+
+position: relative;
+bottom: 2529px;
+
+}
+
+.celebrate{
+
+position: relative;
+left: 450px;
+bottom: 4375px;
+
+}
+
+.the{
+
+color: black;
+position: relative;
+bottom: 4630px;
+left: 950px;
+font-size: 25px;
+
+}
+
+.sale{
+
+    color: black;
+    position: relative;
+    bottom: 4650px;
+    left: 950px;
+    font-size: 25px;
+
+}
+
+.between{
+
+color: grey;
+position: relative;
+font-family: helvetica, sans-serif;
+bottom: 4650px;
+left: 950px;
+
+}
+
+.mutated{
+
+    color: grey;
+    position: relative;
+    font-family: helvetica, sans-serif;
+    bottom: 4660px;
+    left: 950px;
+
+}
+
+.discount{
+
+    color: grey;
+    position: relative;
+    font-family: helvetica, sans-serif;
+    bottom: 4670px;
+    left: 950px;
+
+}
+
+.learn{
+
+    color: grey;
+    position: relative;
+    font-family: helvetica, sans-serif;
+    bottom: 4650px;
+    left: 950px;
+    font-weight: bold;
+    color: #3B8526;
+    font-size: 15px;
+
+}
+
+.wild{
+
+    position: relative;
+    left: 950px;
+    bottom: 4475px;
+
+}
+
+.path{
+
+    color: black;
+    position: relative;
+    bottom: 4700px;
+    left: 500px;
+    font-size: 25px;
+
+}
+
+.set{
+
+    color: grey;
+    position: relative;
+    font-family: helvetica, sans-serif;
+    bottom: 4710px;
+    left: 500px;
+
+}
+
+.update{
+
+    color: grey;
+    position: relative;
+    font-family: helvetica, sans-serif;
+    bottom: 4715px;
+    left: 500px;
+
+}
+
+.yours{
+
+    color: grey;
+    position: relative;
+    font-family: helvetica, sans-serif;
+    bottom: 4720px;
+    left: 500px;
+
+}
+
+.more{
+
+    color: grey;
+    position: relative;
+    font-family: helvetica, sans-serif;
+    bottom: 4700px;
+    left: 500px;
+    font-weight: bold;
+    color: #3B8526;
+    font-size: 15px;
+
+}
+
+.shirt{
+
+    position: relative;
+    left: 450px;
+    bottom: 4475px;
+
+
+}
+
+.gear{
+
+    color: black;
+    position: relative;
+    bottom: 4700px;
+    left: 950px;
+    font-size: 25px;
+
+}
+
+.apparel{
+
+    color: grey;
+    position: relative;
+    font-family: helvetica, sans-serif;
+    bottom: 4700px;
+    left: 950px;
+
+
+}
+
+.swim{
+
+    color: grey;
+    position: relative;
+    font-family: helvetica, sans-serif;
+    bottom: 4710px;
+    left: 950px;
+
+
+}
+
+.wildupdate{
+
+    color: grey;
+    position: relative;
+    font-family: helvetica, sans-serif;
+    bottom: 4720px;
+    left: 950px;
+
+
+}
+
+.learnmore{
+
+    color: grey;
+    position: relative;
+    font-family: helvetica, sans-serif;
+    bottom: 4700px;
+    left: 950px;
+    font-weight: bold;
+    color: #3B8526;
+    font-size: 15px;
+
+}
+
+.end{
+
+position: relative;
+bottom: 4500px;
+padding-bottom: 500px;
+background-color: white;
+
+}
+
+.creation{
+
+color: black;
+size: 20px;
+font-family: helvetica, sans-serif;
+position: relative;
+bottom: 4950px;
+left: 850px;
+
+}
+
+.add{
+
+color: grey;
+font-family: helvetica, sans-serif;
+position: relative;
+bottom: 4950px;
+left: 725px;
+
+}
+
+.community{
+
+    color: grey;
+    font-family: helvetica, sans-serif;
+    position: relative;
+    bottom: 4960px;
+    left: 900px;
+
+}
+
+.lore{
+
+    color: grey;
+    position: relative;
+    font-family: helvetica, sans-serif;
+    bottom: 4940px;
+    left: 950px;
+    font-weight: bold;
+    color: #3B8526;
+    font-size: 15px;
+
+}
+
+.allay{
+
+position: relative;
+bottom: 4900px;
+left: 400px;
+
+}
+
+.java{
+
+    position: relative;
+    bottom: 4900px;
+    left: 405px;
+
+}
+
+.mc{
+
+    position: relative;
+    bottom: 4900px;
+    left: 410px;
+
+
+}
+
+.year{
+
+    position: relative;
+    bottom: 4900px;
+    left: 415px;
+
+
+}
+
+.pre{
+
+position: relative;
+bottom: 5000px;
+left: 400px;
+font-size: 18px;
+background-color: black;
+max-width: 14.5%;
+text-align: center;
+padding-bottom: 30px;
+padding-top: 26px;
+
+}
+
+.release{
+
+    position: relative;
+    bottom: 5047px;
+    left: 480px;
+    font-size: 18px;
+
+}
+
+.player{
+
+    position: relative;
+    bottom: 5133px;
+    left: 686px;
+    font-size: 18px;
+    background-color: black;
+    max-width: 14.5%;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 26px;
+    font-weight: normal;
+    
+
+}
+
+.tool{
+
+    position: relative;
+    bottom: 5177px;
+    left: 730px;
+    font-size: 18px;
+    font-weight: normal;
+
+}
+
+.mcnow{
+
+    position: relative;
+    bottom: 5267px;
+    left: 973px;
+    font-size: 18px;
+    background-color: black;
+    max-width: 14.5%;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 26px;
+
+}
+
+.miss{
+
+    position: relative;
+    bottom: 5362px;
+    left: 1258px;
+    font-size: 18px;
+    background-color: black;
+    max-width: 14.5%;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 26px;
+    font-weight: normal;
+
+}
+
+.market{
+
+    position: relative;
+    bottom: 5411px;
+    left: 1262px;
+    font-size: 18px;
+    font-weight: normal;
+
+}
+
+.news{
+
+position: relative;
+bottom: 5505px;
+word-spacing: 250px;
+left: 489px;
+font-weight: normal;
+font-size: 15px;
+
+
+}
+
+.marketplace{
+
+    position: relative;
+    bottom: 5539px;
+    left: 1350px;
+    font-weight: normal;
+    font-size: 15px;
+
+}
+
+.load{
+
+    padding: 12px;
+    background-color: #3B8526;
+    max-width: 10%;
+    position: relative;
+    left: 850px;
+    color: white;
+    font-family: helvetica, sans-serif;
+    font-size: 15px;
+    text-align: center;
+    bottom: 5350px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    
+}
+
+.plat{
+
+    font-family: helvetica, sans-serif;
+    position: relative;
+    bottom: 5270px;
+    left: 370px;
+    font-style: italic;
+
+}
+
+.switch{
+
+    font-family: helvetica, sans-serif;
+    position: relative;
+    bottom: 5275px;
+    left: 385px;
+    font-style: italic;
+
+}
+
+.nintendo{
+
+    font-family: helvetica, sans-serif;
+    position: relative;
+    bottom: 5280px;
+    left: 885px;
+    font-style: italic;
+
+}
+
+.social{
+
+position: relative;
+bottom: 5250px;
+padding: 20px;
+background-color: black;
+padding-left:750px ;
+padding-right: 720px;
+padding-top: 50px;
+padding-bottom: 50px;
+
+}
+
+.follow{
+
+position: relative;
+bottom: 5395px;
+left: 890px;
+font-size: 15px;
+
+}
+
+.mojang{
+
+padding-left: 300px;
+background-color: #111111;
+position: relative;
+bottom: 5301px;
+padding-top: 100px;
+padding-bottom: 500px;
+padding-right: 1183px;
+
+}
+
+.synergies{
+
+    color: grey;
+    position: relative;
+    font-family: helvetica, sans-serif;
+    bottom: 5780px;
+    font-size: 12px;
+    left: 310px;
+
+}
+
+.view{
+
+    color: #89b85b;
+    position: relative;
+    font-family: helvetica, sans-serif;
+    bottom: 5780px;
+    font-size: 12px;
+    left: 310px;
+
+
+}
+
+.education{
+
+    color: #89b85b;
+    position: relative;
+    font-family: helvetica, sans-serif;
+    bottom: 5950px;
+    font-size: 12px;
+    left: 810px;
+
+}
+
+.learning{
+
+    color: #89b85b;
+    position: relative;
+    font-family: helvetica, sans-serif;
+    bottom: 5850px;
+    font-size: 12px;
+    left: 810px;
+
+}
+
+.mcshop{
+
+    color: #89b85b;
+    position: relative;
+    font-family: helvetica, sans-serif;
+    bottom: 6135px;
+    font-size: 12px;
+    left: 1060px;
+
+}
+
+.site{
+
+    color: #89b85b;
+    position: relative;
+    font-family: helvetica, sans-serif;
+    bottom: 6070px;
+    font-size: 12px;
+    left: 1060px;
+
+}
+
+.profile{
+
+    color: #89b85b;
+    position: relative;
+    font-family: helvetica, sans-serif;
+    bottom: 6000px;
+    font-size: 12px;
+    left: 1060px;
+
+}
+
+.games{
+
+position: relative;
+bottom: 6370px;
+left: 850px;
+font-size: 15px;
+
+}
+
+.mccom{
+
+    position: relative;
+    bottom: 6200px;
+    left: 850px;
+    font-size: 15px;
+
+}
+
+.mcshops{
+
+    position: relative;
+    bottom: 6430px;
+    left: 1100px;
+    font-size: 15px;
+
+}
+
+.sup{
+
+    position: relative;
+    bottom: 6350px;
+    left: 1100px;
+    font-size: 15px;
+
+}
+
+.account{
+
+    position: relative;
+    bottom: 6210px;
+    left: 1100px;
+    font-size: 15px;
+
+
+}
+
+.fantasy{
+
+position: relative;
+bottom: 6550px;
+left: 1300px;
+
+}
+
+.world{
+
+position: relative;
+padding-left: 450px;
+background-color: #313131;
+bottom: 6178px;
+padding-top: 30px;
+padding-bottom: 30px;
+padding-right: 1420px;
+
+}
+
+.cookies{
+
+    font-family: helvetica, sans-serif;
+    position: relative;
+    bottom: 6245px;
+    font-size: 12px;
+    left: 700px;
+    color: white;
+
+}
+
+.use{
+
+    font-family: helvetica, sans-serif;
+    position: relative;
+    bottom: 6270px;
+    font-size: 12px;
+    left: 840px;
+    color: white;
+
+}
+
+.mark{
+
+    font-family: helvetica, sans-serif;
+    position: relative;
+    bottom: 6295px;
+    font-size: 12px;
+    left: 940px;
+    color: white;
+
+
+}
+
+.ads{
+
+    font-family: helvetica, sans-serif;
+    position: relative;
+    bottom: 6320px;
+    font-size: 12px;
+    left: 1040px;
+    color: white;
+
+}
+
+.at{
+
+    font-family: helvetica, sans-serif;
+    position: relative;
+    bottom: 6345px;
+    font-size: 12px;
+    left: 1140px;
+    color: white;
+
+
+}
+
+.united{
+
+    font-family: helvetica, sans-serif;
+    position: relative;
+    bottom: 6380px;
+    font-size: 12px;
+    left: 490px;
+    color: white;
+
+}
+
+.micro{
+
+position: relative;
+bottom: 6420px;
+left: 1300px;
+
+}
